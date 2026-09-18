@@ -41,6 +41,8 @@ PAGES = [
     ("today",          "3a96794f3a55817d8c64c93e598438b6", "T{o}d{a}y",             "quick",  None),
     ("inbox",          "3a96794f3a55812a8503f544bedeb477", "I{n}b{o}x",             "quick",  None),
     ("archive",        "3a96794f3a5581d195bcc015527457cc", "Ar{c}h{i}ve",           "quick",  None),
+    # callout do hub, nao e pagina
+    ("quick-links",    None,                               "Qu{i}ck L{i}nks",       "quick",  None),
 ]
 
 HEAD = """<!doctype html><html><head><meta charset="utf-8"><style>

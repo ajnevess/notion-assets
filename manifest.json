@@ -110,5 +110,13 @@
     "group": "quick",
     "icon": "icon-archive.png",
     "cover": null
+  },
+  {
+    "slug": "quick-links",
+    "page_id": null,
+    "title": "Quick Links",
+    "group": "quick",
+    "icon": "icon-quick-links.png",
+    "cover": null
   }
 ]
