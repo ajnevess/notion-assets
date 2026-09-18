@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "central",
+    "page_id": "3a96794f3a5581f78896f5d7aa1230d3",
+    "title": "Central",
+    "group": "hub",
+    "icon": "icon-central.png",
+    "cover": "cover-central.png"
+  },
+  {
+    "slug": "anas-office",
+    "page_id": "3a96794f3a55811683caffdc43e05139",
+    "title": "Ana’s Office",
+    "group": "work",
+    "icon": "icon-anas-office.png",
+    "cover": "cover-anas-office.png"
+  },
+  {
+    "slug": "marketing-study",
+    "page_id": "a9cc67fe73214ad5b876c473ce1fc410",
+    "title": "Marketing Study",
+    "group": "work",
+    "icon": "icon-marketing-study.png",
+    "cover": "cover-marketing-study.png"
+  },
+  {
+    "slug": "luccas-office",
+    "page_id": "7b7a3ec33c204ef6ac837103a4bf4cf3",
+    "title": "Lucca’s Office",
+    "group": "work",
+    "icon": "icon-luccas-office.png",
+    "cover": "cover-luccas-office.png"
+  },
+  {
+    "slug": "graduation",
+    "page_id": "3a96794f3a5581f79de5faae640931af",
+    "title": "Graduation",
+    "group": "work",
+    "icon": "icon-graduation.png",
+    "cover": "cover-graduation.png"
+  },
+  {
+    "slug": "personal",
+    "page_id": "3a96794f3a5581b29ef1e059143626c6",
+    "title": "Personal",
+    "group": "life",
+    "icon": "icon-personal.png",
+    "cover": "cover-personal.png"
+  },
+  {
+    "slug": "health-inbox",
+    "page_id": "f31e7fb100f843d9bcec8fb3151463e4",
+    "title": "Health Inbox",
+    "group": "life",
+    "icon": "icon-health-inbox.png",
+    "cover": "cover-health-inbox.png"
+  },
+  {
+    "slug": "central-ops",
+    "page_id": "3a96794f3a5581df9405c8de1fa4b415",
+    "title": "Central Ops",
+    "group": "system",
+    "icon": "icon-central-ops.png",
+    "cover": "cover-central-ops.png"
+  },
+  {
+    "slug": "library",
+    "page_id": "3a96794f3a558102b38ffd323245b42d",
+    "title": "Library",
+    "group": "system",
+    "icon": "icon-library.png",
+    "cover": "cover-library.png"
+  },
+  {
+    "slug": "prompt-library",
+    "page_id": "2096794f3a558327a70481547042e517",
+    "title": "Prompt Library",
+    "group": "system",
+    "icon": "icon-prompt-library.png",
+    "cover": "cover-prompt-library.png"
+  },
+  {
+    "slug": "automation-lab",
+    "page_id": "3a96794f3a558155b233c0b491ea090c",
+    "title": "Automation Lab",
+    "group": "system",
+    "icon": "icon-automation-lab.png",
+    "cover": "cover-automation-lab.png"
+  },
+  {
+    "slug": "today",
+    "page_id": "3a96794f3a55817d8c64c93e598438b6",
+    "title": "Today",
+    "group": "quick",
+    "icon": "icon-today.png",
+    "cover": null
+  },
+  {
+    "slug": "inbox",
+    "page_id": "3a96794f3a55812a8503f544bedeb477",
+    "title": "Inbox",
+    "group": "quick",
+    "icon": "icon-inbox.png",
+    "cover": null
+  },
+  {
+    "slug": "archive",
+    "page_id": "3a96794f3a5581d195bcc015527457cc",
+    "title": "Archive",
+    "group": "quick",
+    "icon": "icon-archive.png",
+    "cover": null
+  }
+]
